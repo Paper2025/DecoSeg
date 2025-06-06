@@ -94,4 +94,4 @@ Performance comparison with ten SOTA methods on ISIC2018, Kvasir, BUSI, COVID-19
 
 ## 🎫 License
 
-The content of this project itself is licensed under [LICENSE](https://github.com/Paper2025/DecoNet/blob/main/LICENSE).
+The content of this project itself is licensed under [LICENSE](https://github.com/Paper2025/DecoSeg/tree/main?tab=Apache-2.0-1-ov-file).
