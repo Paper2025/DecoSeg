@@ -13,7 +13,7 @@ Medical image segmentation plays a significant role in treatment planning and di
 ## 🚀 Introduction
 
 <div align="center">
-    <img width="400" alt="image" src="figures/challenge.png?raw=true">
+    <img width="400" alt="image" src="figures/challenge1.png?raw=true">
 </div>
 
 The challenges: (a) There is a blurred transition region (soft boundary) between the foreground and background. (b) salient objects often coexist with non-salient objects (misleading co-occurrence phenomenon).
