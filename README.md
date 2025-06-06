@@ -21,7 +21,7 @@ The challenges: (a) There is a blurred transition region (soft boundary) between
 ## 📻 Overview
 
 <div align="center">
-<img width="800" alt="image" src="figures/network.png?raw=true">
+<img width="800" alt="image" src="figures/network1.png?raw=true">
 </div>
 
 Illustration of the overall architecture of DecoSeg.
